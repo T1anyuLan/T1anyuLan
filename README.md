@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**T1anyuLan/T1anyuLan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm T1anyuLan 👋
 
-Here are some ideas to get you started:
+### AI Agents · Developer Tools · Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React" />
+
+</div>
+
+## 👨‍💻 About me
+
+- 🧠 Exploring agentic systems and developer tooling
+- 🛠️ Building with TypeScript, Node.js, Go, and React
+- 🌱 Learning in public, one useful project at a time
+
+---
+
+<div align="center">
+  <sub>✨ Build small. Learn fast. Ship useful things.</sub>
+</div>
